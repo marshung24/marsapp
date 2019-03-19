@@ -1,0 +1,17 @@
+{
+    "name": "marsapp/marsapp",
+    "description": "Namespace",
+    "homepage": "https://github.com/marshung24/marsapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mars Hung",
+            "email": "tfaredxj@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "marshung\\marsapp\\": "src" }
+    },
+    "minimum-stability": "stable"
+}
